@@ -1,0 +1,3 @@
+This program requires CMake 3.1.0 or later. 
+To install CMake,run "sudo apt install cmake" in a terminal on a Debian-based Linux distribution, or otherwise install CMake.
+To compile the program, run "cmake . && make" in the project folder to generate the Makefile and compile the program. To run the program, run "./Project_1 NUM" where NUM is greater than 1 and specifies the number of threads the program should use.
